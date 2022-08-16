@@ -1,1 +1,18 @@
-
+#AnhLogo{
+    width: 1000pt;height: 100pt;
+}
+#dangnhap{
+    text-align: right;
+}
+#timkiem{
+    text-align: right;
+}
+#Tieude{
+    color: gray;font-size: 40px;text-align: center;
+}
+.Noidung{
+    text-align: center;font-size: 30px;
+}
+.Anh{
+    width: 1000pt;height: 600pt
+}
